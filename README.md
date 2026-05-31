@@ -64,7 +64,7 @@ For an overview of the project, please read the Uber Engineering blog [Enabling 
   ./gradlew check
   ```
 
-4. Build uforwarer Docker image
+4. Build uForwarder Docker image
 
   ```
   ./gradlew jar
